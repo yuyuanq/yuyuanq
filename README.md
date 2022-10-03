@@ -1,5 +1,4 @@
 ### Hi there, this is Lei Zhang. 👋
-MAC Lab, Xiamen University
 
 - 🔭 I’m currently studying in MAC Lab, Xiamen University
 - 🌱 My currently research interests include Neural Architecture Search, Hyperparameter Optimization and Automated Machine Learning.
