@@ -1,12 +1,12 @@
-### Hi there, this is Lei Zhang. 👋
+### Hi there, this is Metaqiang. 👋
 
-- 🔭 I’m currently studying in MAC Lab, Xiamen University
-- 🌱 My currently research interests include Neural Architecture Search, Hyperparameter Optimization and Automated Machine Learning.
+- 🔭 I’m currently studying in DRL Lab, Tianjin University.
+- 🌱 My currently research interests include Deep Reinforcement Learning, Multi-task Learning and Transfer Learning.
 
-![zhanglei1172's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=zhanglei1172&show_icons=true&theme=cobalt)
+![yuyuanq's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=yuyuanq&show_icons=true&theme=cobalt)
 
 <!--
-**zhanglei1172/zhanglei1172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuyuanq/yuyuanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
